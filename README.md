@@ -6,7 +6,9 @@
   - [Notes Application](https://github.com/Bhavani-Rathod/Notes-App.git)
   - [Chat Application](https://github.com/Bhavani-Rathod/ChatApp.git)
   - [Android Offline Music Player Application](https://github.com/Bhavani-Rathod/Music_Player.git)
-  - [Meme App Using Kotlin](https://github.com/Bhavani-Rathod/ChatApp.git)
+  - [Meme App Using Kotlin](https://github.com/Bhavani-Rathod/Meme-App)
+  - [Simple Paint App](https://github.com/Bhavani-Rathod/Simple-Paint-App)
+  - [Calculator App](https://github.com/Bhavani-Rathod/Calculator)
 
 
 <h2>📺 Certifications</h2>
